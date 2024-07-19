@@ -1,2 +1,2 @@
 # fastAPI_Practise
-Explore how FastAPI addresses various API challenges, offering a comprehensive understanding from basic concepts to advanced techniques.
+Here, you'll discover how FastAPI solves various API problems, providing insights from its basics to more advanced concepts.
